@@ -180,8 +180,8 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Territory: 'territory'
   Contact: 'contact'
+  Territory: 'territory'
 
 # Exclusion list from the generated _site
 
