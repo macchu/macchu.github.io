@@ -25,9 +25,13 @@
             </p>
         {% else %}
           <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+          
         {% endif %}
       {% endif %}
 
+      {% if site.phone %}
+        <p><a href="call:{{ site.phone }}">{{ site.phone }}</a></p>
+      {% endif %}
     </div>
   </div>
 </section>

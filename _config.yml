@@ -39,9 +39,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon.ico"  #"/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "/img/warrior_energy_services_black.jpg" #"../img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,8 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Claims adjusting for..."
+  - text: "automotive,"
+  - text: "residential,"
+  - text: "and agriculture."
 
 me-img: "/img/david_rasmusson.jpg" #"/img/jetpacktocat.png"
 
@@ -126,7 +128,8 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+#email: "krasmuss@minot.com"
+phone: "(701) 852-2135"
 
 ################
 # Author Blurb #
