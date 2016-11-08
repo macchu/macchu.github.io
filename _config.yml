@@ -53,12 +53,11 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 500
 lines: # You can add HTML Tags in the Text
-  - text: "Claims adjusting for..."
-  - text: "automotive,"
-  - text: "residential,"
-  - text: "and agriculture."
+  - text: "Claims adjusting for automotive, "
+  - text: "Claims adjusting for residential,"
+  - text: "Claims adjusting for agriculture."
 
 me-img: "/img/david_rasmusson.jpg" #"/img/jetpacktocat.png"
 
