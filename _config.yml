@@ -48,16 +48,16 @@ background-img: "/img/warrior_energy_services_black.jpg" #"../img/intro-bg.jpg"
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 500
+delete-delay: 1000
 lines: # You can add HTML Tags in the Text
   - text: "Claims adjusting for automotive, "
-  - text: "Claims adjusting for residential,"
-  - text: "Claims adjusting for agriculture."
+  - text: "residential,"
+  - text: "and agriculture."
 
 me-img: "/img/david_rasmusson.jpg" #"/img/jetpacktocat.png"
 
